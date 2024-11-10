@@ -1,1 +1,1 @@
-# offline-safe-rl-playground
+# Offline-Safe-RL-Playground
